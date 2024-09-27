@@ -1,4 +1,4 @@
-# Project 3: Marketplace Implementation
+# Project 2: Marketplace Implementation
 
 
 ## Introduction
